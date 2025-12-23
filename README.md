@@ -3,7 +3,7 @@
 <!-- ===================================== -->
 
 <p align="center">
-  <img src="assets/logo.webp" width="90" alt="NYX Logo"/>
+  <img src="@/assets/logo.webp" width="90" alt="NYX Logo"/>
 </p>
 
 <h1 align="center">NYX</h1>
